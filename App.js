@@ -5,7 +5,7 @@ import PaperExamples from "./componets/Paper";
 import test from "./componets/text"
 import leart from "./componets/leart"
 
-
+import leart from "./componets/leart"
 const theme={
   ...MD3LightTheme,
   colors:{
